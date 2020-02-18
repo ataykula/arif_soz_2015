@@ -1,5 +1,6 @@
 ZAMAN OLUR Kİ!
 "Geçmiş zaman olur ki hayali cihân değer"
+//Feature liste geliştirildi V1.3
 *****
 Gözyaşlarımızı da gömeriz çokca defa
 İçimiz kan revanken, gülerizde etrafa
@@ -8,12 +9,14 @@ Geçmiş zaman olur ki, hayali cihân değer.
 *****
 Otağlar kurulurken, sınırlar değişirken
 Zaman zaman içinde, ümitler yeşerirken
+//Feature liste geliştirildi V1.1
 Bir ceylan göz uğruna, sevgiler depreşirken
 Zaman asrın kölesi, insanlar başın eğer.
 *****
 Verilen emanetler,bizim değil hiç biri
 Kulluk bilincinde,batın temiz yok kiri
 Tevhit inancıyla o,ölse bakide diri
+//Feature liste geliştirildi V1.2
 Hazan yeli estikçe yaprak düşermiş meğer
 *****
 Acizken yaratıklar,baş kaldırır zamana
